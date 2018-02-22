@@ -1,0 +1,6 @@
+In commanlind use:
+$python json-tranfer-ja-en.py [en_json file name] [ja_json file name] [xlsx file name]
+
+1. en_json file name: your json file 1
+2. en_json file name: your json file 2
+3. xlsx file name: your xlsx file you want to put content into, (if not exit, it'll be created)
